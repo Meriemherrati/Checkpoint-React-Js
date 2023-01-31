@@ -1,0 +1,18 @@
+.root{
+  width: 80%;
+  margin: auto auto;
+}
+
+.App {
+  margin: 5px auto  ;
+  width: 80%;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.App button{
+  margin: 5px;
+}
